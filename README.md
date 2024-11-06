@@ -1,5 +1,5 @@
-# links
-Links
+# Links
 
-1.0 - creating a website with links to social networks
-1.1 - added icons and kaggle account
+### Версии
+- **1.0** — создание веб-сайта со ссылками на социальные сети
+- **1.1** — добавлены иконки и аккаунт на Kaggle
