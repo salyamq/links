@@ -37,8 +37,8 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 15px 20px;
-    width: 220px;
+    padding: 10px 15px;
+    width: 200px;
     font-size: 16px;
     color: white;
     text-decoration: none;
@@ -78,4 +78,3 @@ h1 {
     transform: scale(1.05);
     filter: brightness(1.1);
 }
-
